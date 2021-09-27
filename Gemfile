@@ -13,7 +13,7 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 gem 'hirb', '~> 0.7.3'
-gem 'nokogiri', '~> 1.10', '>= 1.10.3'
+gem 'nokogiri', '~> 1.12'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
